@@ -27,13 +27,14 @@
 *********************   https://planetexpresscrew.com/home/   **************************
 ****************************************************************************************
 
-What it does:  After starting the .bat it will copy the contents of your controls\mappings\ from both LIVE and 
-PTU into a back up folder (optional / i recomend to disable this post first use).
-Primary purpose (on both LIVE and PTU): Deletes all Control Mappings from USER folder, then copies in Mappings 
-from the backup directory. Then it will remove the whole shader directory and launch the RSI Launcher. The Command 
-Promp will remain open allowing user to view status of the launcher. Apon exiting RSI launcher, the .bat will 
-copy the Control Mappings to the backup, overwriting the preivous copies.
-
+What it does:  After starting the .bat it will copy the contents of your controls\mappings\
+from both LIVE and PTU into a back up folder (optional / i recomend to disable this post 
+first use).
+Primary purpose (on both LIVE and PTU): Deletes all Control Mappings from USER folder, then 
+copies in Mappings from the backup directory. Then it will remove the whole shader directory
+and launch the RSI Launcher. The Command Promp will remain open allowing user to view status
+of the launcher. Apon exiting RSI launcher, the .bat will copy the Control Mappings to the 
+backup, overwriting the preivous copies.
 
 ****************************************************************************************
 ********************************   INSTRUCTIONS   **************************************
