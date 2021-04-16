@@ -27,14 +27,14 @@
 :: ******************   Made by Draconous/ChefHeisca/Wizywig of PXP   *********************
 :: *********************   https://planetexpresscrew.com/home/   **************************
 :: ****************************************************************************************
-:: ********************************   INSTRUCTIONS   **************************************
+:: **********************************   INSTRUCTIONS   ************************************
 :: ****************************************************************************************
 ::
 :: Create folders and back up Control Mappings at "\Roberts Space Industries\Download\Controls\Mappings\" 
 ::
 :: You will need to change the directory structure to where you installed Star Citizen.
 ::
-:: It's not fancy and kept very simple on purpose. Do not run the .bat until control mappings are backed up *YOU WILL LOSE THEM OTHERWISE*
+:: It's not fancy and kept very simple on purpose. There is a failsafe Mappings copy built in that can be disabled after first use.
 ::
 :: You can also drop this FileName.bat file in any directoy then right click it and send link to Desktop and start it from there.
 ::
